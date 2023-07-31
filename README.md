@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @patricia5bellam517
+- 👀 I’m interested in machine learning and AI. I’m currently learning Python.
+- 🌱 Computer Science student with a passion for Python. Always seeking new challenges.
